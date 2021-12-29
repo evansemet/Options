@@ -1,3 +1,5 @@
 # Options
 
-This is a current project that I am working on. The end goal is to take a CSV file of an options portfolio and calculate the cummulative greeks of the entire portfolio as well as assess the fair market value given either the Black Scholes or Black options pricing model.
+*This is a current project that I am working on and still needs to be tested and have more features added.
+
+Currently, it takes a portfolio of positions of European options and will calculate the total fair market value of the portfolio using the Black Scholed model and sum up 18 different Greeks to display the total risk of the portfolio. It can go through over 15,000 positions in a portfolio per second.
