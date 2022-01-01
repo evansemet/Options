@@ -9,7 +9,10 @@ To demonstrate:
 Assume that the entire portfolio consists of only one options call contract with the following characteristics 150.00 current stock price, 170.00 strike price, the current risk free investment rate is 5.00% (0.0500), the dividend yield of the underlying stock is 2.00% (0.0200), the expiration date of the option is 6 months away (0.5 years), and the volatility of the underlying stock is 25.00% (0.2500).
 The program will take that information and display the following:
 
+
+
 Fair Market Value of Portfolio: 4.89339
+
 
 
 First Order Greeks:
@@ -27,6 +30,7 @@ Total Epsilon: -22.0087
 Total Lambda: 9.07659
 
 
+
 Second Order Greeks:
 
 Total Gamma: 0.0129106
@@ -40,6 +44,7 @@ Total Vomma: 55.2709
 Total Veta: 52.6981
 
 Total Varphi: 0.00466879
+
 
 
 Third Order Greeks:
