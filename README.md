@@ -11,27 +11,48 @@ The program will take that information and display the following:
 
 Fair Market Value of Portfolio: 4.89339
 
+
 First Order Greeks:
+
 TotalDelta: 0.296102
+
 TotalVega: 36.3111
+
 Total Theta: -10.2476
+
 Total Rho: 19.7609
+
 Total Epsilon: -22.0087
+
 Total Lambda: 9.07659
 
+
 Second Order Greeks:
+
 Total Gamma: 0.0129106
+
 Total Vanna: 0.974402
+
 Total Charm: -0.295829
+
 Total Vomma: 55.2709
+
 Total Veta: 52.6981
+
 Total Varphi: 0.00466879
 
+
 Third Order Greeks:
+
 Total Speed: 0.000174312
+
 Total Zomma: -0.0319906
+
 Total Color: -0.00714818
+
 Total Ultima: -597.276
+
 Total Dual Delta: -0.232482
+
 Total Dual Gamma: 0.0100515
 
