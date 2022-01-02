@@ -6,7 +6,7 @@
 Currently, it takes a portfolio of positions of European options and will calculate the total fair market value of the portfolio using the Black Scholes model and sum up 18 different Greeks to display the total risk of the portfolio. It can go through over 15,000 positions in a portfolio per second.
 
 To demonstrate:
-Assume that the entire portfolio consists of only one options call contract with the following characteristics 150.00 current stock price, 170.00 strike price, the current risk free investment rate is 5.00% (0.0500), the dividend yield of the underlying stock is 2.00% (0.0200), the expiration date of the option is 6 months away (0.5 years), and the volatility of the underlying stock is 25.00% (0.2500).
+Assume that the entire portfolio consists of only one option call contract with the following characteristics 150.00 current stock price, 170.00 strike price, the current risk free investment rate is 5.00% (0.0500), the dividend yield of the underlying stock is 2.00% (0.0200), the expiration date of the option is 6 months away (0.5 years), and the volatility of the underlying stock is 25.00% (0.2500).
 The program will take that information and display the following:
 
 
