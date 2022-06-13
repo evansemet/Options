@@ -17,9 +17,9 @@ Fair Market Value of Portfolio: 4.89339
 
 First Order Greeks:
 
-TotalDelta: 0.296102
+Total Delta: 0.296102
 
-TotalVega: 36.3111
+Total Vega: 36.3111
 
 Total Theta: -10.2476
 
